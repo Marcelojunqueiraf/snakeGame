@@ -1,4 +1,3 @@
-const { read } = require('fs');
 const http = require('http');
 
 let app = http.createServer((req, res) => {
@@ -6,4 +5,4 @@ let app = http.createServer((req, res) => {
     res.end('Hello World!\n');
 });
 
-app.listen(3000, '127.0.0.1');
+app.listen(3000);
