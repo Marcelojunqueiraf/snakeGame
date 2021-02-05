@@ -8,4 +8,5 @@ Just download the whole repo and open index.html using an internet browser
 * arrays
 * Object Oriented Programming
 * WebGL
+
 ![screenshot from the game](./PrintScreen.png)
