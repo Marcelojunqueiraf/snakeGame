@@ -1,2 +1,2 @@
 # snakeGame
-A snake game made in javascript and hosted using node.js
+A simple snake game made in pure javascript
